@@ -1,0 +1,6 @@
+
+E -> TR
+R -> +TR | -TR | e
+T -> FS
+S -> *FS | /FS | e
+F -> (E) | num
